@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpackiGabriel
 - 👀 I’m interested in technology :)
-- 🌱 I’m currently learning web development and AI
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on social projects
 - 📫 How to reach me: ifprgabriel@gmail.com
