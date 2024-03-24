@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 📫 How to reach me **ifprgabriel@gmail.com**
+- 📫 How to reach me **gabrielspacki@alunos.utfpr.edu.br**
 
 - ⚡ Fun fact **I play more than 10 different musical instruments :)**
 
