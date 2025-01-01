@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Spacki</h1>
-<h3 align="center">A passionate A.I. developer from Brasil</h3>
+<h3 align="center">A passionate developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 **Machine Learning** enthusiast
 
 - 📫 How to reach me **gabrielspacki@alunos.utfpr.edu.br**
 
