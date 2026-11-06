@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Gabriel Spacki</h1>
-<h3 align="center">A passionate developer from Brasil</h3>
+# Gabriel Spacki
 
-- 🌱 **Machine Learning** enthusiast
+Backend engineer from Brazil (UTC−3). I've worked remotely since 2023, most recently for a UK software consultancy.
 
-- 📫 How to reach me **gabrielspacki@alunos.utfpr.edu.br**
+I build backend systems in Python (Django, Django REST Framework, FastAPI), usually around the parts that break first in production: third-party integrations, background processing with Celery and Redis, and AWS infrastructure managed as code with Pulumi.
 
-- ⚡ Fun fact **I play more than 10 different musical instruments :)**
+### Recent work
 
-- 🐧 Linux User: I have a picture with Maddog, lol xD
+- **CodeLeap** (UK consultancy, 2025–2026): Salesforce integration and sales automation for an energy-sector client; a CRM-to-accounting integration that automates contract invoicing, with tax and multi-currency rules and safeguards against duplicate invoices; manuscript production workflows for an academic publishing platform.
+- **[Soleira](https://soleira.app)**: a product I designed and built end to end. It automates the monthly financial close for Brazilian property managers: Pix and boleto billing, payment reconciliation, commission calculation and owner payouts.
+- **Research**: GPU-accelerated hierarchical particle swarm optimization for fitting adsorption isotherm models, with CuPy and custom CUDA kernels ([gpu-hierarchical-pso](https://github.com/SpackiGabriel/gpu-hierarchical-pso)).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-spacki-781053230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-spacki-781053230" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20542328/gabriel-henrique-alves-spacki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20542328/gabriel-henrique-alves-spacki" height="30" width="40" /></a>
-<a href="https://kaggle.com/spackigabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="spackigabriel" height="30" width="40" /></a>
-<a href="https://fb.com/gabrielhenrique.spacki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielhenrique.spacki" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriel.spacki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel.spacki" height="30" width="40" /></a>
-</p>
+Most of my professional code is private client work, so what you'll find public here is research and earlier projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spackigabriel&" alt="spackigabriel" /></p>
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-spacki-781053230) · B.Sc. in Computer Science at UTFPR (expected 2027)
+
+Outside of code, I play more than ten musical instruments.
