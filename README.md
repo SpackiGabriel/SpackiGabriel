@@ -15,5 +15,3 @@ Most of my professional code is private client work, so what you'll find public 
 ### Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-spacki-781053230) · B.Sc. in Computer Science at UTFPR (expected 2027)
-
-Outside of code, I play more than ten musical instruments.
